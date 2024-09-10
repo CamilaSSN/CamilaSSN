@@ -28,5 +28,5 @@ Sou formada em *Gestão da Tecnologia da Informação* e atualmente estou me esp
 
 
 ### 🌐 Como me contatar:
-[LinkedIn](https://www.linkedin.com/in/camila-neres-19ss/)
-E-mail*: miladisoares@gmail.com
+- Perfil [LinkedIn](https://www.linkedin.com/in/camila-neres-19ss/)
+- E-mail*: miladisoares@gmail.com
