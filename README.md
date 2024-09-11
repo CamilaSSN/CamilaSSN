@@ -7,7 +7,7 @@ Sou formada em *Gestão da Tecnologia da Informação* e atualmente estou me esp
 - *Análise de dados estruturados e não estruturados*
 
 ### 📈 Projetoss:
-[GitHub](https://github.com/CamilaSSN?query=is%3Aclosed&tab=projects)
+[GitHub](https://github.com/CamilaSSN?tab=repositories)
 
 
 ### 🎓 Formação Acadêmica:
