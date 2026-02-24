@@ -1,32 +1,62 @@
-# Olá! Eu sou Camila Soares da Silva Neres 👋
+Olá! Eu sou Camila Soares da Silva Neres 👋
 
-### 📝 Resumo Profissional:
-Sou formada em *Gestão da Tecnologia da Informação* e atualmente estou me especializando em *Big Data para Negócios. Minhas principais habilidades incluem:
-- Criação de *dashboards no Power BI*
-- *Automação de processos*
-- *Análise de dados estruturados e não estruturados*
+🎯 Engenheira de Dados Júnior | BI | Analytics
 
-### 📈 Projetoss:
-[GitHub](https://github.com/CamilaSSN?tab=repositories)
+Sou profissional com experiência em Engenharia de Dados, BI e Governança, atuando na construção de pipelines, análise de dados e desenvolvimento de dashboards estratégicos. Tenho vivência com ETL, automação, qualidade de dados e ambientes em nuvem.
 
+Atualmente, foco no desenvolvimento de soluções end-to-end que transformam dados brutos em insights para tomada de decisão.
 
-### 🎓 Formação Acadêmica:
-- *Big Data para Negócios* (2023 - 2025)  
-  Fatec Ipiranga Pastor Eneas Tognini
-- *Tecnologia da Gestão da Informação* (2018 - 2020)  
-  Universidade Uninove
+🚀 Experiência
+🔹 URCA ENERGIA – Estagiária em Engenharia de Dados / BI (2024–2025)
 
-### 📚 Cursos:
-- Gestão de Projetos - Fundação Bradesco (2019)
-- Fundamentos em ITIL - Fundação Bradesco (2019)
-- Modelagem de Dados - Fundação Bradesco (2023)
-- Preparando Dados para Análise no Power BI - Fundação Bradesco (2023)
+Desenvolvimento de dashboards e KPIs no Power BI (metas, churn, performance e carteira de clientes)
+Construção e otimização de consultas SQL em ambiente Azure
+Apoio em pipelines ETL e automações com Python
+Validação e controle de qualidade dos dados
+Análises para áreas Comercial, Financeira e Operacional
 
-### 💻 Ferramentas e Tecnologias:
-- *Linguagens*: [Python](https://www.python.org/), [SQL](https://www.sql.org/), [R](https://www.r-project.org/)
-- *Ferramentas*: [Pentaho](https://www.hitachivantara.com/en-us/products/dataops-software/pentaho-platform.html), [AWS](https://aws.amazon.com/), [Power BI](https://powerbi.microsoft.com/)
+🔹 PROSCORE – Estagiária em Engenharia de Dados / Governança (2024)
 
+Projetos de governança e padronização de dados
+Modelagem de dados em MySQL
+Apoio a análises de prevenção à fraude e score de crédito
+Criação de relatórios e dashboards em Power BI
 
-### 🌐 Como me contatar:
-- Perfil [LinkedIn](https://www.linkedin.com/in/camila-neres-19ss/)
-- E-mail*: miladisoares@gmail.com
+🔹 TOTALIP – Analista de Suporte Técnico (2020–2023)
+
+Monitoramento de sistemas com Zabbix e Grafana
+Atuação em ambientes Linux
+Análise e resolução de incidentes
+
+🛠️ Stack Técnica
+
+Linguagens & Dados:
+Python | SQL | Excel
+
+Engenharia & Cloud:
+ETL | Databricks | AWS (Glue, Lambda, EventBridge, Step Functions) | Azure
+
+BI & Visualização:
+Power BI
+
+Boas práticas:
+Git | CI/CD | Governança de Dados | Arquitetura orientada a eventos
+
+🎓 Formação
+🎓 MBA em Tecnologia para Negócios: Data Science e Big Data – Faculeste (2024–2025)
+🎓 Big Data para Negócios – Fatec Ipiranga (2023–2025)
+🎓 Gestão da Tecnologia da Informação – Uninove (2020)
+
+📜 Certificações
+AWS Academy Graduate – Data Engineering (2024)
+Databricks Fundamentals (2026)
+Modelagem de Dados – Fundação Bradesco
+Power BI para Análise de Dados – Fundação Bradesco
+Inglês em andamento
+
+📂 Projetos
+Você pode visualizar meus projetos aqui:
+👉 Repositórios no GitHub
+🌎 Contato
+🔗 LinkedIn: https://www.linkedin.com/in/camilasoaresneres/
+📩 miladisoares@gmail.com
